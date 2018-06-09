@@ -1,4 +1,4 @@
-import py01
+from src import py01
 
 # 若果模块名称直接以数字开头，需要借助importlib帮助
 # import importlib

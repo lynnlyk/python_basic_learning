@@ -1,4 +1,4 @@
-from py01 import Student, sayHello
+from src.py01 import Student, sayHello
 
 stu = Student()
 
