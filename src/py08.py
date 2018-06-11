@@ -1,4 +1,5 @@
-import pk01.py01
+from src.pk01.py01 import *
 
-stu = pk01.py01.Student()
-stu.say()
+inInit()
+
+stu = Student()
